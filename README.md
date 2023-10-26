@@ -9,30 +9,6 @@ This is a README for a Expense Manager web application built using .NET Core. Th
   - Student ID: 21CEUTG062
 
 
-
-## Table of Contents
-1. [Prerequisites](#prerequisites)
-2. [Installation](#installation)
-3. [Configuration](#configuration)
-4. [Database Setup](#database-setup)
-5. [Running the Application](#running-the-application)
-6. [Features](#features)
-
-## Prerequisites
-Before getting started, make sure you have the following prerequisites installed on your system:
-
-# Online_Movie_Ticket_Booking_Web_Application
-This web application allows users to browse and book movie tickets online. It offers a user-friendly interface for selecting movies, showtimes and seats. The application is designed with both users and admin in mind, providing features such as user registration and authentication, and an admin dashboard for managing movie listings and theaters.
-
-This is a README for a movie ticket booking web application built using .NET Core. This application was developed as part of the Computer Engineering Department's Semester-V Web Development and Design (WDDN) subject project at Dharmsinh Desai University.
-
-## Team Members
-- *Dhruvin Gamit* (CE039)
-  - Student ID: 21CEUTS109
-
-- *Abhishek Jamkar* (CE053)
-  - Student ID: 21CEUTF069
-
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
 2. [Installation](#installation)
