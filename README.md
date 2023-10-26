@@ -6,7 +6,7 @@ This is a README for a Expense Manager web application built using .NET Core. Th
 
 ## Team Members
 - *Harsh Patel* (CE097)
-  - Student ID: 21CEUTG062
+   Student ID: 21CEUTG062
 
 
 ## Table of Contents
@@ -23,7 +23,7 @@ Before getting started, make sure you have the following prerequisites installed
 - [.NET Core SDK](https://dotnet.microsoft.com/download)
 - [Visual Studio Code](https://code.visualstudio.com/) or any code editor of your choice
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) for database storage
-- - [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
+- [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
 
 ## Installation
 1. Clone /repo.git`
