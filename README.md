@@ -26,7 +26,7 @@ Before getting started, make sure you have the following prerequisites installed
 - [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
 
 ## Installation
-1. Clone /repo.git`
+1. Clone /repo.git
 2. Open the project in your code editor.
 
 
