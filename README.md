@@ -6,7 +6,7 @@ This is a README for a Expense Manager web application built using .NET Core. Th
 
 ## Team Members
 - *Harsh Patel* (CE097)
-   Student ID: 21CEUTG062
+   -Student ID: 21CEUTG062
 
 
 ## Table of Contents
