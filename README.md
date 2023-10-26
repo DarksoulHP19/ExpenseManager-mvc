@@ -45,8 +45,8 @@ dotnet ef database update
 
 ## Running the Application
 1. Build and run the application:
-dotnet build
-dotnet run
+'dotnet build'
+'dotnet run'
 2. Open a web browser and go to https://localhost:44315/ to access the application.
 
 ## Features
